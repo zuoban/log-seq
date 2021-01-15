@@ -2,7 +2,134 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://logseq.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "8Glx3jI9lAgm1NXlecTpy",
+      "type": "rectangle",
+      "x": 623.9359130859375,
+      "y": 170.37103271484375,
+      "width": 529.72705078125,
+      "height": 246.04681396484375,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1764658755,
+      "version": 35,
+      "versionNonce": 983574499,
+      "isDeleted": false
+    },
+    {
+      "id": "mErKU9mumc5O13bfTJ69Q",
+      "type": "ellipse",
+      "x": 817.3185424804688,
+      "y": 247.07452392578125,
+      "width": 134.34686279296875,
+      "height": 149.322265625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1290990221,
+      "version": 92,
+      "versionNonce": 1576112099,
+      "isDeleted": false
+    },
+    {
+      "id": "YWhkzyU8JeGhuok4uYV0y",
+      "type": "draw",
+      "x": 925.6030883789062,
+      "y": 212.986083984375,
+      "width": 197.87811279296875,
+      "height": 114.914794921875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 228301699,
+      "version": 80,
+      "versionNonce": 1190675149,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          72.18951416015625,
+          26.5364990234375
+        ],
+        [
+          139.88934326171875,
+          58.0086669921875
+        ],
+        [
+          187.32623291015625,
+          87.15191650390625
+        ],
+        [
+          197.87811279296875,
+          97.71343994140625
+        ],
+        [
+          188.48577880859375,
+          105.16937255859375
+        ],
+        [
+          177.55340576171875,
+          109.52825927734375
+        ],
+        [
+          156.63006591796875,
+          113.68972778320312
+        ],
+        [
+          89.788330078125,
+          114.914794921875
+        ],
+        [
+          85.5858154296875,
+          100.70526123046875
+        ],
+        [
+          89.2081298828125,
+          89.80352783203125
+        ],
+        [
+          94.115966796875,
+          88.88922119140625
+        ],
+        [
+          101.07537841796875,
+          97.7352294921875
+        ],
+        [
+          103.42291259765625,
+          103.4886474609375
+        ],
+        [
+          102.52716064453125,
+          113.48995971679688
+        ]
+      ],
+      "lastCommittedPoint": null
+    }
+  ],
   "appState": {
     "viewBackgroundColor": "#FFF",
     "gridSize": null
